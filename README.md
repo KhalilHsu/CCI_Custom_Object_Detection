@@ -4,5 +4,5 @@ After using the powerful YOLO, I hope I can train custom gestures through Colab 
 >
 > [Download .weights](https://github.com/KhalilHsu/CCI_YOLO_Object_Detection/blob/main/README.md)
 
-![Gif](https://github.com/KhalilHsu/CCI_learn_openCV/blob/main/pic/ezgif-2-d475f29c76bc.gif)
+![Gif](https://github.com/KhalilHsu/CCI_Custom_Object_Detection/blob/main/train_yolo/cfg/ezgif-2-2238139f506a.gif)
 
